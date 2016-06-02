@@ -1,0 +1,17 @@
+.project
+.settings
+.buildpath
+.history
+.classpath
+target
+out
+logs
+project/project
+project/target
+buildinfo.properties
+*.jar
+*.zip
+*.bar
+/.target
+/bin
+.svn
